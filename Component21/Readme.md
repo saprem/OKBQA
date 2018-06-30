@@ -10,8 +10,8 @@ Input Arguments while running:
 * argv[2] = language
 
 eg: 
-``` python Wrapper_UserInput.py "Which sea flows near India?" "en" ```
+``` python Wrapper_UserInput.py "Which river flows near Mumbai?" "en" ```
 
-Output: flows (Here: x['s'] = "v9" and x['p'] = "verbalization")
+Output: flows (Here: x['s'] = "v9" and x['p'] = "verbalization") 
 
 #### Note: However since as per input question need to change value of x['s'] in the code to output required word.
